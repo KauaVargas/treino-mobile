@@ -5,4 +5,6 @@ Site experimental para trabalhar o mobile-first
 
 * Preparando os arquivos do site
 
-##Aula 16/05
+## Aula 16/05
+
+*Preparando header
