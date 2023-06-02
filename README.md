@@ -8,3 +8,7 @@ Site experimental para trabalhar o mobile-first
 ## Aula 16/05
 
 * Preparando header
+
+## Aula 02/06
+
+* Terminando cabeçalho
