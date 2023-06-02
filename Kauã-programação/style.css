@@ -3,6 +3,8 @@
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF; 
+    --laranja: #ff5b20;
+    --azul: #000dff;
 }
 body{
     background-color: var(--cor-de-fundo);
