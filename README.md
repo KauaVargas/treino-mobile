@@ -12,3 +12,7 @@ Site experimental para trabalhar o mobile-first
 ## Aula 02/06
 
 * Terminando cabeçalho
+
+## Aula 16/06
+
+* Terminando o término do cabeçalho
