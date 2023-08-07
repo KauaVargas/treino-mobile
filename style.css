@@ -3,10 +3,10 @@
 
 
 :root{
-    --cor-de-fundo: #EBECEE;
-    --branco: #ffffff;
-    --laranja: #EB9B00;
-    --preto: #000000;
+    --cor-de-fundo: #ff0048;
+    --branco: #ff0048;
+    --laranja: #0004ff;
+    --preto: #0015ff;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
